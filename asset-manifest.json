@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b96cf1b6.css",
+    "main.js": "/my-portfolio/static/js/main.3f95ccca.js",
+    "static/js/415.4d6acbeb.chunk.js": "/my-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/website.png": "/my-portfolio/static/media/website.9472bde2c07c51056cc3.png",
+    "static/media/crm.jpg": "/my-portfolio/static/media/crm.ba50d2a73c126a9efe36.jpg",
+    "static/media/bpm.jpg": "/my-portfolio/static/media/bpm.e147025f7d2c9bc87ef5.jpg",
+    "static/media/about.jpg": "/my-portfolio/static/media/about.d90dfe33fa945b325298.jpg",
+    "static/media/home.png": "/my-portfolio/static/media/home.613db10c04e5720eae98.png",
+    "static/media/bi.jpg": "/my-portfolio/static/media/bi.7cbbac2bac1fc0994f92.jpg",
+    "static/media/tu-hsiang-ling.pdf": "/my-portfolio/static/media/tu-hsiang-ling.71797283ef030793ee38.pdf",
+    "static/media/home-bg.jpg": "/my-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.png": "/my-portfolio/static/media/avatar.53ef1b05da80c9cd8f8e.png",
+    "static/media/pre.svg": "/my-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.b96cf1b6.css.map": "/my-portfolio/static/css/main.b96cf1b6.css.map",
+    "main.3f95ccca.js.map": "/my-portfolio/static/js/main.3f95ccca.js.map",
+    "415.4d6acbeb.chunk.js.map": "/my-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96cf1b6.css",
+    "static/js/main.3f95ccca.js"
+  ]
+}
